@@ -1,0 +1,7 @@
+streamlit
+spotipy
+numpy
+pandas
+gsheetsdb
+seaborn
+protobuf~=3.19.0
